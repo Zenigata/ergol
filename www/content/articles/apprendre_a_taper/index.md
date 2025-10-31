@@ -255,7 +255,7 @@ respectivement 1 mot et 3 mots.
 Conclusion (TL;DR)
 --------------------------------------------------------------------------------
 
-Vous connaissez donc maintenant ma méthode pour apprendre un nouveau *layout*.
+Vous connaissez donc maintenant ma méthode pour apprendre un nouveau _layout_.
 Pour résumer :
 
 1. On commence par apprendre les bases avec [Duck Typist][] ou [Keybr][].
