@@ -185,7 +185,7 @@ disposition que pour les entraînements, et de ne changer de disposition qu’un
 fois que vous avez pris confiance. 35–40 mots par minute est en général une
 vitesse amplement suffisante pour le monde réel, mais certain·e·s font le
 changement plus tôt : on oublie vite sa disposition précédente et ça peut être
-moins frustrant de taper lentement avec le nouveau *layout* que de faire des
+moins frustrant de taper lentement avec le nouveau _layout_ que de faire des
 erreurs avec l’ancien.
 
 
