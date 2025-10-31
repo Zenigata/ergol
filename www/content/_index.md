@@ -80,7 +80,7 @@ Témoignages
 
 @[vjousse][]
 
-> Le confort de frappe est tout bonnement excellent. Je ne regrette même pas
+> Le confort de frappe est tout bonnement excellent, je ne regrette même pas
 > Optimot pour le français. Plus encore, je n’ai plus cette désagréable
 > sensation d’avoir un handicap lorsque je tape en anglais.
 
